@@ -69,8 +69,8 @@ E consiste em:
 Os dados são armazenados localmente usando:
 
 ```dart
-SharedPreferences
-
+  SharedPreferences
+```
 
 ---
 
